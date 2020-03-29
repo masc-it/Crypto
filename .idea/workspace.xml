@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="cryptotest" targetName="cryptotest" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14d8bae3-d0eb-4857-a5ad-08f5433e3dc0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Release" />
+  <component name="ProjectId" id="1Svd9LBnlDzSTLhtgZkQf9dfxEd" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="cryptotest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptotest" TARGET_NAME="cryptotest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cryptotest" RUN_TARGET_NAME="cryptotest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14d8bae3-d0eb-4857-a5ad-08f5433e3dc0" name="Default Changelist" comment="" />
+      <created>1572447850198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572447850198</updated>
+      <workItem from="1572447851313" duration="4659000" />
+      <workItem from="1572452701598" duration="2282000" />
+      <workItem from="1572460796843" duration="8078000" />
+      <workItem from="1572521918658" duration="4523000" />
+      <workItem from="1572544658321" duration="5273000" />
+      <workItem from="1572596099600" duration="1085000" />
+      <workItem from="1572696148504" duration="4565000" />
+      <workItem from="1572714296220" duration="5776000" />
+      <workItem from="1572772628977" duration="111000" />
+      <workItem from="1572772758771" duration="7955000" />
+      <workItem from="1572781072442" duration="2601000" />
+      <workItem from="1572793018847" duration="10597000" />
+      <workItem from="1572963907652" duration="1861000" />
+      <workItem from="1574413434732" duration="290000" />
+      <workItem from="1585211344370" duration="800000" />
+    </task>
+    <servers />
+  </component>
+</project>
